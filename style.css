@@ -45,7 +45,8 @@ main {
 
 .left_content h1 {
   margin: 0 auto;
-  font-size: 90px;
+  letter-spacing: 1.5px;
+  font-size: 70px;
   font-family: "Inter", sans-serif;
   font-weight: 900;
 }
