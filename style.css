@@ -74,8 +74,7 @@ main {
   width: 400px;
   height: 550px;
   border-radius: 15px;
-  /* border-radius: 31% 69% 37% 63% / 91% 31% 69% 9%  ; */
-}
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;}
 
 /* ======================= MEDIA QUERY ===================== */
 /* Large screens */
