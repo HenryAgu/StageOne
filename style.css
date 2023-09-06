@@ -80,7 +80,7 @@ main {
 /* Small Screens */
 @media only screen and (max-width: 480px) {
   .content {
-    flex-direction: column;
+    flex-direction: column-reverse;
     row-gap: 30px;
     column-gap: 0;
     width: 100%;
