@@ -14,7 +14,7 @@ let hour12;
 const hour = date.getHours();
 
 // AM or PM handler
-if (hour > 12){
+if (hour >= 12){
     hour12 = "PM";
 }else if(hour < 12){
     hour12 = "AM";
